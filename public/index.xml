@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>How to get a job</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on How to get a job</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to write a job application</title>
+      <link>//localhost:1313/job-application/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      <guid>//localhost:1313/job-application/</guid>
+      <description>Thoughts on writing a job application`.</description>
+    </item>
+    <item>
+      <title>Self care while applying for jobs</title>
+      <link>//localhost:1313/self-care/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      <guid>//localhost:1313/self-care/</guid>
+      <description>Thoughts on self care during job seeking process`.</description>
+    </item>
+    <item>
+      <title>Stressors of being a job seeker</title>
+      <link>//localhost:1313/stressors-of-seeking-jobs/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      <guid>//localhost:1313/stressors-of-seeking-jobs/</guid>
+      <description>Thoughts on what stressors affect you during the job seeking process`.</description>
+    </item>
+    <item>
+      <title>What it means to be a job seeker</title>
+      <link>//localhost:1313/what-it-means/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      <guid>//localhost:1313/what-it-means/</guid>
+      <description>Thoughts on what it is to be a job seeker`.</description>
+    </item>
   </channel>
 </rss>

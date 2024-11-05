@@ -1,4 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = 'job.spilldev.no/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'How to get a job'
 theme = 'hugo-book'
+
+
+[params]
+  BookSection = "/"
+  description = "Tips on how to get a job"
+  keywords = "Job-seeking, game-dev, spillutvikling-norge"
